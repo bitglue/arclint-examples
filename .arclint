@@ -22,7 +22,8 @@
     },
     "text" : {
       "type" : "text",
-      "include" : "(\\.txt$)"
+      "include" : "(\\.txt$)",
+      "text.max-line-length" : 81
     },
     "ruby" : {
       "type" : "ruby",
