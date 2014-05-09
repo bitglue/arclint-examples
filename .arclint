@@ -1,5 +1,4 @@
 {
-  "debug" : true,
   "linters" : {
     "pep8" : {
       "type" : "pep8",
